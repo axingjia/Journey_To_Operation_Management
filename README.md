@@ -79,3 +79,17 @@ Frederick W. Taylor believes that management should assume more responsibility f
 * Service have high customer interaction.
 * Services are often knowledge based
 * Services are frequently dispersed. 
+
+###### New Challenges in Operation Management 
+SKIM
+
+###### The Productivity Challenge
+SKIM
+
+###### Productivity Measurement
+SKIM
+###### Productivity Measurement 
+* Labor, Capital, Management 
+
+###### Ethics, Social Responsibility, and Sustainability 
+SKIM 
