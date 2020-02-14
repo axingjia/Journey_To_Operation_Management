@@ -93,3 +93,49 @@ SKIM
 
 ###### Ethics, Social Responsibility, and Sustainability 
 SKIM 
+
+# Chapter 2: Operations Strategy in a Global Environment 
+Boeing with new airplane, new design and new engine. Its airplane is built all around the world. Because of that, it raises a huge financial risk of over $5 billion dollars. Because of that Boeing needs partners. It means finding exceptional developers and suppliers. These partners not only spread the risk but also bring commitment to the table.
+
+## A Global View of Operations and Supply Chain
+
+MY: China is good at producing household item
+
+An effective operation management effort must have a mission so it knows where it is going and a strategy so it knows how to get there. This is the case for a small domestic organization as well as a large international organization
+
+Economic success, indeed survival, is the result of identifying missions to satisfy a customer's needs and wants. We define the organizatino's mission as its purpose--what it will contribute to society. Mission statement provide boundaries and focus for organizations and the concept around which the firm can rally. The mission states the rationale for the organization's existence.
+
+One an organization's mission has been decided, each functional area within the firm determines its supporting mission, such as the major disciplines like marketing, finance/accounting, production/operation.
+
+With the mission established, strategy and its implementatino can begin. Strategy is an organization's action plan to achieve the mission. Each functional area has a strategy for achieving its mission and for helping the organization reach teh overall mission. These strategies exploit opportunities and strengths, neutralize threats, and avoid weakness.
+
+Firms achieve mission in three conceptual ways: differentiation, cost leader, response
+
+* Competing on Differentiation: designing and producing reliable state-of-the-art glove: thereby differentiating itself; differentiation is concened with providing uniqueness; sometimes it may be the convenience of a broad product line, product features, or a service related to the product. Such services can manifest themselves through convenience, training, product delivery and installation, or repair and maintenance services; in service sector, differentiation means through an experience
+* Competiting in cost: an effectively matched capacity to demand and effectively utilized this capacity; identifying the optimum investment allows firms to spread overhead costs
+* Competing on Response: ability to match changes in a marketplace where design innovation and volume fluctuate substantially; realiability of scheduling
+
+## Change of Strategy 
+SKIM
+
+## Strategy Development and Implementation 
+SKIM
+
+## Global Operation Strategy Options
+SKIM
+
+# Chapter 3: Project Management
+SKIM DUPLICATE FROM SFU BUS 361
+
+# Chapter 4: Forecasting
+SKIP
+
+# Chapter 5: Design of Goods and Services
+SKIM MY: If I am interested in product, I should just look into the product marketing certificate. In this book it only talks about tangible good in detail, service is depicted as a process map
+
+# Chapter 6: Sustainability in the Supply Chain
+SKIP 
+
+# Chapter 7: Managing Quality
+SKIP
+
