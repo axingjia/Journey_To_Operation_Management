@@ -139,3 +139,41 @@ SKIP
 # Chapter 7: Managing Quality
 SKIP
 
+# Supplement 6: Statistical Process controll
+SKIP
+
+# Chapter 7: Process Strategy
+* Process focus: low volume, high varity, like a job shop, different department devoted to welding,grinding and painting, or in an office, accounts payable, sales, and payroll, or in a restaurant, bar, grill, and bakery. Disadvantage: process focused facilities have high variable cost with extremely low utilization of facilities. 
+* Repetitive focus: use modules. Modules are parts or components previously prepared, often in a continuous process.
+* product focus: high volume, low variety. Also known as continuous process, because they have very long, continuous production runs. It's only with standardization and effective quality control that firms have established product focused facilities. The specialized nature of the facility requires high fixed cost, but low variable costs reward igh facility utilization
+* Mass customization: rapid, low-cost production. Mass customization is not just about variety; it is about making precisely what the customer wants when the customer wants it economically. It requires sophisticated operational capabilities. SKIP 
+
+###### Service Blueprinting
+* IMPORTANT: level 1: customer is in control; level 2: customer may interact with service provider; level 3: service is removed from customer's control and interaction.
+
+## Customer Interaction and Process Design
+* for mass service and professional service, labour content is high, the manager should focus extensively on human resources. This is often done with personalized services, requiring high labor involvement and therefore significant selection and training issues in the human resources area 
+* For low customization tends to 1. standardize or restrict some offering, as do fast food restaurant; 2. automate; 3. remove some service. Offloading some aspect of the service through automation may require innovations in process design as well as capital investment 
+* because customer feedback is lower in low customization, tight control may be required to maintain quality standards
+* operation with low labor intensity may lend themselves particularly well to innovation in process technology and scheduling.
+
+###### Techniques for innovative process design in services
+* separation: Structuring service so customers must go where the service is offered. Bank customers go to a manager to open a new account, to loan officers for loans, and to tellers for deposits 
+* self-service: self service so customers examine, compare, and evaluate at their own pace: supermarkets and department stores using internet ordering 
+* postponement: customizing at delivery: customizing vans at delivery rather than at production 
+* focus : restricting the offerings: limited menu restaurant 
+* modules: modular selection of service: investment and insurance selection; modular production: prepackaged food modules in restaurant 
+* Automation: separating services that may lend themselves to some type of automation: automated teller machine 
+* Scheduling: precise personnel scheduling: scheduling ticket counter personnel at 15 minute intervals at airlines 
+* training: clarifying the serivce option: investment counsellor, funeral director; explaining how to avoid problem; after sale maintenance personnel
+
+### Production Technology 
+SKIM
+
+### Technology in services
+SKIM [short]
+
+# Supplement 7: Capacity and Constraint Management
+
+page 293
+
