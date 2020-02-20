@@ -174,6 +174,7 @@ SKIM
 SKIM [short]
 
 # Supplement 7: Capacity and Constraint Management
+* bottleneck, throughput time, managing demand, four special consideration for a good capacity decision, effective capacity and utilization and efficiency
 
-page 293
+page 300
 
