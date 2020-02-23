@@ -174,7 +174,9 @@ SKIM
 SKIM [short]
 
 # Supplement 7: Capacity and Constraint Management
-* bottleneck, throughput time, managing demand, four special consideration for a good capacity decision, effective capacity and utilization and efficiency
+* bottleneck, throughput time, managing demand, four special consideration for a good capacity decision, effective capacity and utilization and efficiency, bottleneck analysis SKIP, theory of constraint SKIP, bottlenect management SKIP, breakeven analysis SKIP, Reducing Risk with Incremental Change SKIP, Applying Expected Monetary Value to Capacity Decision SKIP, Applying Investment Analysis to Strategy-Driven Investment SKIP
 
-page 300
+# Chapter 8: Location Strategies
+
+page 322
 
