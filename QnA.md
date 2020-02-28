@@ -6,3 +6,5 @@ A: OM is one of the three major funcitons of any organization, and it is integra
 3. Briefly describe the contributions of the four individuals identified in the preceding question
 
 4. Outlines the operations, finance/accounting, and marketing functions of: newspaper, drugstore, college library, summer camp, small costume-jewellery factory
+
+5. Chapter 8 Location Strategy's questions

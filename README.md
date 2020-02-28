@@ -174,9 +174,30 @@ SKIM
 SKIM [short]
 
 # Supplement 7: Capacity and Constraint Management
-* bottleneck, throughput time, managing demand, four special consideration for a good capacity decision, effective capacity and utilization and efficiency, bottleneck analysis SKIP, theory of constraint SKIP, bottlenect management SKIP, breakeven analysis SKIP, Reducing Risk with Incremental Change SKIP, Applying Expected Monetary Value to Capacity Decision SKIP, Applying Investment Analysis to Strategy-Driven Investment SKIP
+bottleneck, throughput time, managing demand, four special consideration for a good capacity decision, effective capacity and utilization and efficiency, bottleneck analysis SKIP, theory of constraint SKIP, bottlenect management SKIP, breakeven analysis SKIP, Reducing Risk with Incremental Change SKIP, Applying Expected Monetary Value to Capacity Decision SKIP, Applying Investment Analysis to Strategy-Driven Investment SKIP
 
 # Chapter 8: Location Strategies
+Factors that affect location decisions: labour productivity, exchange rate and currency risk, costs, political risk, values, and culture, proximity to markets, proximity to suppliers, poximity to competitors
 
-page 322
+Methods of Evaluating Location Alternatives: Factor Rating Method, Location Break-even Analysis, Centre-of-gravity method, transportation model(linear programming)
+
+## Service Location Strategy
+While the focus in industrial-sector location analysis is on minimizing cost, the focus in the service sector is on maximizing revenue. This is because manufacturing firms find that costs tend to vary substantially among locations, while service firms find the location often has more impact on revenue than cost. This means that the location focus for service firms should be on determining the volume of business and revenue.
+
+There are eight major determinants of volume and revenue for the service firm:
+1. purchasing power of the customer-drawing area 
+2. Service and image compatibility with demographics of customer-drawing area
+3. Competition in the area 
+4. Quality of the competition 
+5. Uniqueness of the firm's and competitors' locations 
+6. Physical qualities of facilities and neighbouring businesses 
+7. Operating policies of the firm 
+8. Quality of management 
+
+## Geographic Information System 
+SKIM
+
+MY: The questions in this chapter is really good
+
+page 349
 
