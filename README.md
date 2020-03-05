@@ -199,5 +199,32 @@ SKIM
 
 MY: The questions in this chapter is really good
 
-page 349
+# Chapter 9: Layout Strategy 
+Mcdonald: indoor seating(1950) and drive-through window(1970), and adding play area was a layout issue. Adding breakfast to the menu(1980) was a product strategy. A radically new redesign of the kitchen to faciliate mass customization process(1990). In 2004, a new food ordering layout, the self-service kiosk. Now 2019, deals with the restaurant layout, redesigning all 30000 eateries around the globe to take on a 21st century look.
+
+Layout is one of the key decisions that determines the long-run efficiency of operations. Layout has numerous strategic implications because it establishes an organization's competitive priorities in regard to capacity, processes, flexibility, and cost, as well as quality of work life, customer contact, and image.
+
+An effective layout can help an organization achieve a strategy that supports differentiation, low cost, or response. Benetton, supports a differentiation strategy by havy investment in warehouse layouts that contribute to fast, accurate sorting and shipping to its 5000 outlets. Walmart store layouts support a strategy of low cost, as do its warehouse layout. Hallmark's office layout, where many professionals operate with open communication in work cells, support rapid development of greeting cards. The objective of layout strategy is to develop an effective and efficient layout that meet the firm's competitive requirements.
+
+In all cases, layout design must consider how to achieve the following:
+-High utilization of space, equipment, and people    
+-Improved flow of information, materials, and people    
+-Improve employee morale and safer working conditions    
+-Improve customer/client interaction    
+-Flexibility(whatever the layout is now, it will need to change)    
+
+### Types of layout 
+* Office layout: position workers, their equipment, and space/offices to provide for movement of information 
+* Retail layout: Allocate shelf space and responds to customer behavior.
+* Warehouse layout: Addresses trade-offs between space and material handling 
+* Fixed-position layout: addresses the layout requirements of large, bulky projects such as ships and building 
+* Process-oriented layout: deal with low-volume, high-variety production (also called job shop or intermittent production) 
+* Work-cell layout: arrange machinery and equipment to focus on production of a single product or group of related products 
+* Product-oriented layout: seeks the best personnel and machine utilization in repetitive or continuous production
+
+SKIP 
+
+# Chapter 10: Human Resources, Job Design and Work measurement
+
+Page 390
 
