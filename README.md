@@ -225,6 +225,19 @@ In all cases, layout design must consider how to achieve the following:
 SKIP 
 
 # Chapter 10: Human Resources, Job Design and Work measurement
+* Good human esource strategies are expensive, difficult to achieve, and hard to sustain
+* The objective of a human resource strategy is to manage labour and design jobs so people are effectively and efficiently utilized.
+* As we focus on a human resource strategy, we want to ensure that people:1. are efficiently utilized within the constraints of other operations management decision; 2. have a reasonable quality of work life in an atmosphere of mutual commitment and trust
+* by reasonable quality of work life, we mean a job that is not only reasonable safe and ofr which the pay is equitable but that also achieves an appropriate level of both physical and psychological requirement
+* mutal trust is reflected in reasonable, documented employment policies that are honestly and equitably implemented to the satisfaction of both management and employee.
 
-Page 390
+### Labour Planning 
+* Labor planning is determining staffing policies that deal with 1. employment stability, 2. work schedule, 3. work rule 
+
+### Job Design 
+* Job design specifies the tasks that constitute a job for an individual or a group. We examine five components of job design: 1. job specialization, 2. Job expansion, 3. psychological component, 4. self-directed team, 5. motivation and incentive system
+
+SKIM
+
+Page 395
 
