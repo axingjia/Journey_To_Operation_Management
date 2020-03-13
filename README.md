@@ -237,7 +237,15 @@ SKIP
 ### Job Design 
 * Job design specifies the tasks that constitute a job for an individual or a group. We examine five components of job design: 1. job specialization, 2. Job expansion, 3. psychological component, 4. self-directed team, 5. motivation and incentive system
 
-SKIM
+SKIM: the rest of the chapter is about work, workplace environment, time, quality
 
-Page 395
+# Chapter 11: Supply Chain Management 
+* supplier qualifcation, product tracking, independent audits, just-in-time delivery
+* Most firms spend a huge portion of their sales dollars on purchases. Because an increasing percentage of an organization's cost are determined by purchasing, relationships with suppliers are increasingly integrated and long term.
+* Supply Chain Management is the integration of the activities that procure materials and services, transform them into intermediate goods and final products, and deliver them to customers.
+* Supply Chain Risk: SKIM
+* Ethics and Sustainability: SKIM
+* Supply Chain Strategies: one strategy is to negotiate with many suppliers and playing one supplier against another. Second Strategy is to develop long term partnering relationships with a few suppliers to satisfy the end customer. A third strategy is vertical integration, in which a firm decides to use vertical backward integration by actually buying the supplier. A fourth approach is some type of collaboration that allows two or more firms to combine resource--typically in what is called a joint venture--to produce a component. A fifth variation is a combination of few suppliers and vertical integration, known as keiretsu. Finally, a sixth strategy is to develop virtual companies that use suppliers on an as-needed basis.
+* Managing the Supply Chain: SKIM
 
+page 431
