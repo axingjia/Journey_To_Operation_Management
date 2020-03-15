@@ -319,7 +319,22 @@ To accommodate the funcitons of inventory, firms maintain four types of inventor
 * ABC analysis: see [All the math]. The objective is to separate the important from the unimportant. The idea is that, Class A items are those on which the annual dollar volume is high. Although such items may represent only about 15% of the total inventory items, they represent 70% to 80% of the total dollar usage. Class B items are those inventory items of medium annual dollar volume. Those with low annual dollar volume are Class C, which may represent only 5% of the annual dollar volume but about 55% of the total inventory items.
 * Criteria other than annual dollar volume can determine item classification. For instance, anticipated engineering changes, delivery problems, quality problems, or high unit cost may dictate upgrading items to a higher classification. The advantage of dividing inventory items into classes allows policies and controls to be established for each class.
 * Policies that may be based on ABC analysis include the following: 1. Purchasing resources expended on supplier development should be much higher for individual A items than for C items; 2. A items, as opposed to B and C items, should have tighter physical inventory control, perhaps they belong in a more secure area, and perhaps the accuracy of inventory records for A items should be verified more frequently; 3. Forecasting A items may warrant more care than forecasting other items. || Better forecasting, physical control, supplier reliability, and an ultimate reduction in safety stock can all result from appropriate inventory management policies.
+* record accuracy: SKIM
+* Cycle Counting: SKIM
+* A items will be counted frequently, perhaps once a month; B items will be counted less frequently, perhaps once a quarter; and C items will be counted perhaps once every six months.
+* MY: Operation Management is a very Si-Te activity.
+* Control of service inventory: SKIP
 
-page 474
+###### Inventory Models 
+* Independent versus depedent demand: SKIM 
+* Holding, ordering, and setup cost: SKIM
+
+###### Inventory Models for Independent Demand 
+There are three inventory models that address two important questions: when to order and how much to order. They are: 1. Basic economic order quantity (EOQ) model, 2. Production order quantity model; 3. Quantity discount model
+* The economic order quantity model is one of the most commonly used inventory control techniques. This techniques is relatively easy to use but is based on several assumption: 1. Demand for an item is known, reasonably constant, and independent of decisions for other items; 2. Lead time--that is, the time between placement and receipt of the order--is known and consistent; 3. Receipt of inventory is instantaneous and complete. In other words, the inventory from an order arrives in one batch at one time; 4. Quantity discounts are not possible; 5. The only variable costs are the cost of setting up or placing an order and the cost of holding or storing inventory over time; 6. Stockout(shortage) can be completely avoided if orders are placed at the right time. See graph in the book page 479.
+* Minimizing Cost: see [All the math]
+
+
+page 485
 
 
