@@ -408,7 +408,11 @@ In chapter 4, we saw the demand forecasting can address long-, medium-, and shor
 * SKIM
 
 # Chapter 14: Material Requirement Planning(MRP) and ERP
+About billing and material and schedule and ERP: SKIM
 
-page 544
+# Chapter 15: Short-term scheduling
+MY: Different way to schedule in different work situation. I can't relate. SKIP
+
+page 617
 
 
