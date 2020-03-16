@@ -378,9 +378,37 @@ In chapter 4, we saw the demand forecasting can address long-, medium-, and shor
 2. Backordering during high-demand periods: Backorders are orders for goods or service that a firm accepts but is unable (either on purpose or by chance) to fill at the moment. If customers are willing to wait without loss of their goodwill or order, backordering is a possible strategy. Many firms backorder, but the approach often results in lost sales. 
 3. Counter-seasonal product and service mixing: A widely used active smoothing technique among manufactureers is to develop a product mix of counter-seasonal items. Examples include companies that make both furnaces and air conditioners or lawn mowers and snowblowers. However, companies that follow this approach may find themselves involved in products or services beyond their area of expertise or beyond their target market.
 
+* Changing inventory level: adv: Change in human resource are gradual or none; no abrupt production changes; disadvantage: inventory holding costs may increase; shortage may result in lost sales; comment: applies mainly to production, not service, operation 
+* Varying workforce size by hiring or layoff: adv: avoid the cost of other alternatives; disadv: hiring, layoff, and training cost may be significant; comment: use where size of labour pool is large
+* Varying production rates through overtime or idle time: adv: matches seasonal fluctuations without hiring/training costs; disadv: overtime premiums; tired workers; may not meet demand; comment: allows flexibility within the aggregate plan
+* Subcontracting: Adv: Permits flexibility and smoothing of the firm's output; disadv: loss of quality control; reduced profits; loss of future business; comment: applies mainly in production settings
+* Using part-time worker: is less costly and more flexibly than full-time worker. High turnover/training costs; quality suffers; scheduling difficult; comment: good for unskilled jobs in areas with large temporary labour pool
+* Influencing demand: adv: tries to use excess capacity. Discounts draw new customer; disadv: uncertainty in demand. Hard to match demand to supply exactly; comment: Create marketing ideas. Overbooking used in some business 
+* Backordering during high-demand periods: adv: may avoid overtime. Keep capacity constant; disadv: customer must be willing to wait, but goods is lost; comment: many companies backorder 
+* counter-seasonal product and service mixing: fully utilizes resources allows stable workforce. Disadv: may require skills or equipment outside firm's area of expertise; comment: risky finding products or services with opposite demand pattern
+* the case strategy: this strategy attemps to achieve output rates for each period that match the demand forecast for that period. This strategy can be accomplished in a variety of ways. For example, the operations manager can vary workforce levels by hiring or laying off or can vary production by means of overtime, idle time, part-time employees, or subcontracting. Many service organizations favor the chase strategy because the changing inventory levels option is difficult or impossible to adopt. Industries that have moved toward a chase strategy include education, hospitality, and construction.
+* Level strategy(level scheduling): is an aggregate plan in which production is uniform from period to period. Firms such as Toyota and Nissan attempt to keep production at uniform level and may 1. let the finished goods inventory vary to buffer the difference between demand and production, or 2. find alternative work for employees. Their philosophy is that a stable workforce leads to a better-quality product, less turnover and absenteeism, and more employee commitment to corporate goals. Other hidden saving include employees who are more experienced, easier scheduling and supervision, and fewer dramatic start-ups and shutdowns. Level scheduling works well when demand is reasonable stable
 
+### Methods for Aggregate Planning
+* Plan 1: average requirement=total expected demand/number of production days=6200/124=50 complete unit per day
+* Plan 2: maintain a constant workforce at a level necessary to meet the lowest demand month and to meet all demand above this level by subcontracting. inventory carrying=9250=1850*$5 per unit; regular-time labour=99200=10*80 per day*124 day; other cost(overtime,hiring, layoff, subcontracting)=0; total=108450; because you keep a constant workforce, you will hire enough people for the lowest demand month, which is March, so its 800/21=7.6 workers. All other demand is met by subcontracting; 
+* [continue]: inhouse production=38 unit per day* 124 production days=4712; subcontract unit=6200-4712=1488 units; regular time labor=75392=7.6 workers*$80 per day*124days; subcontracting=29760=1488 units*20 per unit; total cost=105152
+* Plan 3: varying the workforce by hiring and layoff as necessary
+* Mathematical Approaches: SKIP
 
+### Aggregate Planning in Services 
+* Demand management takes a more active role. 
+* In industries such as banking, trucking, and fast food, aggregate planning may be easier than in manufacturing.
+* Controlling the cost of labor in service firms is critical. Successful techniques include: 1. accurate scheduling of labor-hours to assure quick response to customer demand; 2. An on-call labour resource that can be added or deleted to meet unexpected demand; 3. Flexibility of individual worker skills that permits reallocation of available labor; 4. Flexibility in rate of output of hours of work to meet changing demand.
+* these options may seem demanding, but they are not unusual in service industires, in which labour is the primary aggregate planning vehicle. For instance: 1. excess capacity is used to provide study and planning time by real estate and auto salespersons; 2. police and fire departments have provisions for calling in off-duty personnel for major emergencies. Where the emergency is extended, police or fire personnel may work longer hours and extra shifts; 3. When business is unexpectedly light, restaurant and retail stores send personnel home early; 4. supermarket stock clerks work cash registers when checkout lines become too lengthy; 5. experienced servers increase their pace and efficiency of service as crowds of customers arrive
+* Restaurant, Hospital, National chain of small service firms, miscellaneous services, airline industry: SKIM 
 
-page 518
+# Yield Management 
+* Meaning chnaing price to match the demand curve based on differences in the customer's willingness to pay
+* SKIM
+
+# Chapter 14: Material Requirement Planning(MRP) and ERP
+
+page 544
 
 
