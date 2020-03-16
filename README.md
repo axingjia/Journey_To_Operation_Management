@@ -333,8 +333,16 @@ To accommodate the funcitons of inventory, firms maintain four types of inventor
 There are three inventory models that address two important questions: when to order and how much to order. They are: 1. Basic economic order quantity (EOQ) model, 2. Production order quantity model; 3. Quantity discount model
 * The economic order quantity model is one of the most commonly used inventory control techniques. This techniques is relatively easy to use but is based on several assumption: 1. Demand for an item is known, reasonably constant, and independent of decisions for other items; 2. Lead time--that is, the time between placement and receipt of the order--is known and consistent; 3. Receipt of inventory is instantaneous and complete. In other words, the inventory from an order arrives in one batch at one time; 4. Quantity discounts are not possible; 5. The only variable costs are the cost of setting up or placing an order and the cost of holding or storing inventory over time; 6. Stockout(shortage) can be completely avoided if orders are placed at the right time. See graph in the book page 479.
 * Minimizing Cost: see [All the math]
+* Production order quantity model: In previous inventory model, we assumed that the entire inventory order was received at one time. There are times, however, when the firm may receive its inventory over a period of time. such cases require a different model, one that does not require the instantaneous-receipt assumption. This model is applicable under two situation: 1. when inventory continuously flows or builds up over a period of time after an order has been placed, or 2. when units are proudced and sold simultaneously. Under these circumstance, we take into account the daily production rate and the daily demand rate. Because this model is especially suitable for the production environment. It is commonly called the production order quantity model
+See [all the math]
+* Quantity Discount Model: See [all the math]
+* Probabilistic Model and Safety Stock: https://www.youtube.com/watch?v=XMQnvrAF3N4, and also see text
+* Other Probabilistic model: SKIP
+* Single-Period Model: SKIP
+
+# Chapter 13: Aggregate Planning and Sales and operation Planning
 
 
-page 485
+page 512
 
 

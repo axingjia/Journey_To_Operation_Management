@@ -36,3 +36,18 @@ TC=D/Q*S+Q/2*H+PD
 * ROP=Demand per day*lead time for a new order in days=d*L
 * the demand per day, d is found by dividing the annual demand, D, by the number of working days in a year= d=D/Number of working days in a year
 * example: ROP=8000/250*3=96, thus, an order should be placed at 96 units
+
+###### Production Order Quantity Model 
+1. annual inventory holding cost=average inventory level * holding cost per unit 
+2. Average inventory level=maximum inventory level/2
+3. Maimum inventory level=total production during the production run-total used during the production run=pt-dt wherep is daily production rate, t is length of the production run in days, d is daily demand rate, or usage rate.
+4. However, Q = Total produced=pt, and thus t=Q/P. Therefore, maximum inventory level=p(Q/p)-d(Q/p)=Q-d/p*Q
+5. Annual inventory holding cost=Maximum inventory level/2*H=Q/2[1-d/p]* H where H is holding cost per unit per year
+6. using this expression for holding cost and the expression for setup cost developed in the basic EOQ model. We solve for the optimal number of pieces per order by equating setup cost and holding cost:
+7. setup cost=D/Q*S, holding cost=1/2*H*Q[1-d/p]
+8. so D/Q*S=1/2*H*Q*[1-d/p], Q^2=2DS/(H[1-d/p]), Qstar=Math.sqrt(2D/(H[1-d/p]))
+
+###### Quantity Discount Model
+* TC= D/Q*S+Q/2*H+PD
+* Qstar=Math.sqrt(2DS/IP) where P is price per unit, I is the inventory carrying charge, S is ordering or setup cost per order
+* see the calculation at p489
