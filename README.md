@@ -404,7 +404,7 @@ In chapter 4, we saw the demand forecasting can address long-, medium-, and shor
 * Restaurant, Hospital, National chain of small service firms, miscellaneous services, airline industry: SKIM 
 
 # Yield Management 
-* Meaning chnaing price to match the demand curve based on differences in the customer's willingness to pay
+* Meaning changing price to match the demand curve based on differences in the customer's willingness to pay
 * SKIM
 
 # Chapter 14: Material Requirement Planning(MRP) and ERP
