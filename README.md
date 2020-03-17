@@ -413,6 +413,25 @@ About billing and material and schedule and ERP: SKIM
 # Chapter 15: Short-term scheduling
 MY: Different way to schedule in different work situation. I can't relate. SKIP
 
+# Chapter 16: Lean Operation:
+* MY: automotive industry: Sales and Operation Heavy
+* Just-in-time(JIT)
+* Just general idea, and philosophy: SKIP
+
+# Chapter 17: Maintenance and Reliability
+SKIP
+
+# Business Analytics Module A: Decision-Making Tools 
+SKIP 
+# Business Analytics Module B: Linear Programming 
+SKIP 
+# Business Analytics Module C: Transportation Models 
+SKIP 
+# Business Analytics Module D: Waiting-Line Model
+SKIP
+# Business Analytics Module E: Learning Curve 
+SKIP
+
 page 617
 
 
