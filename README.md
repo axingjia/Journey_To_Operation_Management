@@ -1,5 +1,8 @@
 # Journey_To_Operation_Management
 
+DISCLAIMER: This repo contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. In accord with the purpose of notetaking/search/retrieval in an easy way and convenient way, we are making such material available to advance understanding of Operation Management. We believe this constitute a "fair use" of any such copyrighted material as provided in Section 107 of the US Copyright Law. In accordance with Title 17 U.S.C Section 107, the material on this site is distributed without profit to those who have expressed a prior intereste in receiving the included information for research and educational purposes. For further information on fair use, go to https://www.law.cornell.edu/uscode/text/17/107
+If you wish to use copyrighted material from this site for purposes of your own that go beyond fair use, you must obtain permission from the copyright owner.
+
 CPIM https://www.apics.org/credentials-education/credentials/cpim
 
 Different management topics publication:
